@@ -1,6 +1,6 @@
 @font-face{
-    font-family:'cantique';
-    src:url('../bhunt/assets/fonts/cantique/fonts/web/Cantique-Normal.woff') format('woof');
+    font-family:"cantique";
+    src:url("../bhunt/assets/fonts/cantique/fonts/web/Cantique-Normal.woff") format("woof");
 }
 
 
